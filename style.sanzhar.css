@@ -1,0 +1,24 @@
+.container{
+    position: fixed;
+}
+.column1{
+    left: 0%;
+    position:fixed;
+    bottom: 70%;
+}
+.column1 p{
+    color: red;
+    text-align: center;
+    font-size: 200%;
+
+}
+.column2{
+left: 0%;
+position: fixed;
+bottom: 50%;
+height: 25%;
+}
+.column2 video{
+    width: 600px;
+    height: 500px;
+}

@@ -1,0 +1,31 @@
+.body{
+    background-color: black;
+}
+.column2 audio{
+    width: 100px;
+    height: 100px;
+    left: 0;
+    position: fixed;
+    bottom: 100%;
+}
+.comtainer{
+    display: flex;
+    position: fixed;
+}
+.column1 video{
+    height: 400px;
+    width: 400px;
+}
+.column1{
+    left: 40%;
+    position: fixed;
+
+}
+.column3 button{
+    color: red;
+    width: 100px;
+    height: 100px;
+}
+.column4 pre{
+    color: red;
+}
